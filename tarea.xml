@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tareas>
+    <tarea>
+        <numero>1</numero>
+        <descripcion>Tarea56</descripcion>
+        <fechaFinalizacion>2025-10-22</fechaFinalizacion>
+        <prioridad>Alta</prioridad>
+        <estado>En progreso</estado>
+        <user>
+            <email>mzuckerberg@example.com</email>
+            <id>U002</id>
+            <name>Mark Zuckerberg</name>
+        </user>
+        <codigoProyecto>4165</codigoProyecto>
+    </tarea>
+    <tarea>
+        <numero>2</numero>
+        <descripcion>tarea45</descripcion>
+        <fechaFinalizacion>2025-10-21</fechaFinalizacion>
+        <prioridad>Alta</prioridad>
+        <estado>Completada</estado>
+        <user>
+            <email>mzuckerberg@example.com</email>
+            <id>U002</id>
+            <name>Mark Zuckerberg</name>
+        </user>
+        <codigoProyecto>4165</codigoProyecto>
+    </tarea>
+</tareas>

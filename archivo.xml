@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<proyectos>
+    <proyecto>
+        <codigo>4987</codigo>
+        <descripcion>proyecto1</descripcion>
+        <encargado>
+            <email>bgates@example.com</email>
+            <id>U001</id>
+            <name>Bill Gates</name>
+        </encargado>
+    </proyecto>
+    <proyecto>
+        <codigo>3549</codigo>
+        <descripcion>proyecto2</descripcion>
+        <encargado>
+            <email>saltman@example.com</email>
+            <id>U003</id>
+            <name>Sam Altman</name>
+        </encargado>
+    </proyecto>
+    <proyecto>
+        <codigo>4165</codigo>
+        <descripcion>proyecto4578921</descripcion>
+        <encargado>
+            <email>mzuckerberg@example.com</email>
+            <id>U002</id>
+            <name>Mark Zuckerberg</name>
+        </encargado>
+    </proyecto>
+</proyectos>
